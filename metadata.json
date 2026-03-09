@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Performance Dashboard",
+  "description": "A B2B SaaS dashboard showing quarterly performance, ARR, MRR, and an AI helper for data analysis.",
+  "requestFramePermissions": []
+}
